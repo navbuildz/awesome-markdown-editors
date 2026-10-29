@@ -115,6 +115,9 @@ github: [`Cveinnt/LetsMarkdown.com`](https://github.com/Cveinnt/LetsMarkdown.com
 (web: [`taskade.com`](https://taskade.com),
  github: [`taskade/taskade`](https://github.com/taskade/taskade)) - Collaborative workspace with a built-in Markdown editor, real-time collaboration, AI writing assistance, and structured task management. Supports multiple views including lists, boards, and mind maps.
 
+**TypeFire Markdown Editor**
+(web: [`typefire.app/markdown-editor-online`](https://typefire.app/markdown-editor-online)) - Free online editor that formats Markdown as you type: tables, code blocks, callouts, checklists. Autosaves in your browser, and you can export HTML or save a PDF from the print dialog. No sign-up.
+
 ## WYSIWYG Markdown Editors for Integration in Web Apps
 
 Editors designed to be used by developers for use in websites and web apps.
